@@ -1,58 +1,46 @@
-# Hello, I'm Harshwardhan. 👋
+# 👋 Hi there, I'm Harsh Vortex!
 
-![Profile Banner](https://your-banner-image-url.com)
+I'm a passionate software engineer and BTech student with a love for technology and innovation. I enjoy building projects that solve real-world problems and continuously learning new skills.
 
-## 👨‍💻 About Me
-I'm a **Software_Engineer** with a passion for **all kind of technologies**. I love working on projects that involve **Specific Technologies or Fields**.
+## 🚀 Skills
 
-- 🌱 Currently learning: **Flutter**
-- 💬 Ask me about: **Topics you're knowledgeable about**
-- 📫 How to reach me: **[harshwardhankashyap98@gmail.com]**
-- ⚡ Fun fact: **I"m an amazing quick learner.**
+- **Languages**: 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+  - ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+  
+- **Web Technologies**: 
+  - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+  - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 
----
+- **Tools & Platforms**: 
+  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+  - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
-## 🛠️ Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+## 🌟 Projects
 
----
+Here are some of my notable projects:
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshvortex&show_icons=true&theme=radical)
+- **[Project 1](https://github.com/yourusername/project1)**: A brief description of what this project does and the technologies used.
+- **[Project 2](https://github.com/yourusername/project2)**: A brief description of what this project does and the technologies used.
+- **[Project 3](https://github.com/yourusername/project3)**: A brief description of what this project does and the technologies used.
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:your.email@example.com)
+
+## 📊 GitHub Stats
+
+![Harsh Vortex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshvortex&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvortex&layout=compact&theme=radical)
 
----
-
-## 📊 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=harshvortex&theme=xcode)
-
----
-
-## 🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/harshwardhan-259674313/) | [Twitter](https://x.com/harsh_vortex) | [Personal Website](https://yourwebsite.com)
-
----
-
-## 📂 Pinned Repositories
-Here are some of my favorite projects:
-
-- [Project 1](https://github.com/harshvortex/Wellness_whispers) - Brief description of Project 1.
-- [Project 2](https://github.com/harshvortex/Portfolio) - Brief description of Project 2.
-- [Project 3](https://github.com/harshvortex/Mental_health_monitor) - Brief description of Project 3.
-
----
-
-## 🎨 Showcase
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvortex&layout=compact&theme=radical)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshvortex&color=blue)
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+<!--
+**harshvortex/harshvortex** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the preview link above to see it in action.
+-->
