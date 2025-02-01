@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Harsh Verma (harshvortex)**!  
+# 👋 Hello, I'm **Harshwardhan(harshvortex)**!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshvortex&label=Profile%20views&color=blue&style=flat-square)  
 ![GitHub Followers](https://img.shields.io/github/followers/harshvortex?label=Followers&style=flat-square)  
