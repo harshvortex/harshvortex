@@ -1,223 +1,135 @@
-# 👋 Hello, I'm **Harshwardhan(harshvortex)**!  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=001524&height=250&section=header&text=VORTEX%20FURY&fontSize=80&animation=twinkling&theme=tokyonight&desc=Systems%20Architect%20%7C%20Agentic%20AI%20%7C%20Spatial%20Computing&descSize=20&descAlignY=65" width="100%" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshvortex&label=Profile%20views&color=blue&style=flat-square)  
-![GitHub Followers](https://img.shields.io/github/followers/harshvortex?label=Followers&style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/harshvortex?label=Stars&style=flat-square)  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=SIH+INTERNAL+RANK+4;FOUNDER+OF+CODECYCLON;AGENTIC+AI+%26+LLMOPS;CLOUD-NATIVE+ARCHITECTURE;SPATIAL+COMPUTING+%26+WEBXR;DEVSECOPS+%26+CYBERSECURITY" alt="Typing SVG" />
 
----
-
-## 🌟 **About Me**  
-
-🎓 **Tech Enthusiast** | 💻 **Full-Stack Developer** | 🚀 **Open-Source Contributor**  
-
----  
-
-- 👨‍💻 **Full-Stack Developer** with a passion for building scalable, efficient, and user-friendly applications.  
-- 🌐 Skilled in both **frontend** and **backend** development, with a focus on creating seamless user experiences.  
-- 🛠️ Proficient in **JavaScript**, **React**, **Node.js**, **Python**, and **Django**.  
-- 🔧 Experienced in **DevOps** practices, including CI/CD pipelines, containerization, and cloud deployment.  
-- 🤝 Active **open-source contributor** with a commitment to building tools that solve real-world problems.  
-- 🌟 Always eager to learn new technologies and frameworks to stay ahead in the ever-evolving tech landscape.  
-
----  
-
-💡 **Mission:** To create impactful, scalable, and innovative solutions that empower users and businesses alike.  
-🌍 **Let’s Connect:** Together, we can build the future of technology!  
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/HarshVortex?label=Followers&style=for-the-badge&color=00D4FF&logo=github" />
+    <img src="https://img.shields.io/badge/B.Tech-Engineer-blue?style=for-the-badge&logo=cpu" />
+    <img src="https://img.shields.io/badge/Agency-Founder-000000?style=for-the-badge&logo=rocket" />
+  </p>
+</div>
 
 ---
 
-## 🛠 **Tech Stack**
-
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+## 🏆 Elite Credentials
+* **🥇 SIH 2025 Internal Rank 4:** Spearheaded **EduScheduler**, optimizing institutional infrastructure through AI-driven heuristics.
+* **🌀 Founder & CEO @ Codecyclon:** Directing a software agency specializing in high-concurrency digital ecosystems.
+* **🎓 Academic Identity:** B.Tech Student (FOET) | Student ID: BCS20223119.
 
 ---
 
-## 🚀 **Featured Projects**
+## 🏗️ The 6-Pillar Architecture
 
-### **1. VortexChat - Real-Time Chat Application**
-- **Description:** A real-time chat application built with **React**, **Node.js**, and **Socket.IO**.
-- **Features:** Real-time messaging, user authentication, and responsive design.
-- **Technologies:** React, Node.js, Express, MongoDB, Socket.IO
-- **GitHub Repo:** [VortexChat](https://github.com/harshvortex/VortexChat)
-
-### **2. CodeVortex - Online Code Editor**
-- **Description:** An online code editor that supports multiple programming languages.
-- **Features:** Syntax highlighting, code execution, and collaborative editing.
-- **Technologies:** React, Monaco Editor, Firebase
-- **GitHub Repo:** [CodeVortex](https://github.com/harshvortex/CodeVortex)
-
-### **3. TaskVortex - Task Management Tool**
-- **Description:** A task management tool designed to help teams organize and prioritize tasks.
-- **Features:** Task creation, assignment, progress tracking, and notifications.
-- **Technologies:** Django, React, PostgreSQL
-- **GitHub Repo:** [TaskVortex](https://github.com/harshvortex/TaskVortex)
-
----
-
-## 🎯 **Goals for 2025**
-
-- 🏆 **Certifications:** Earn certifications in **AWS Solutions Architect**, **Google Cloud Professional**, and **Kubernetes Administrator**.
-- 🛠️ **Open-Source Contributions:** Contribute to major open-source projects and maintain my own libraries.
-- 📖 **Skill Development:** Master advanced topics in **microservices architecture**, **serverless computing**, and **AI/ML integration**.
-- 🌐 **Global Collaboration:** Collaborate with developers worldwide to build innovative solutions.
-- 🚀 **Startup Ideas:** Work on a startup idea that solves a real-world problem using cutting-edge technology.
-
----
-
-## 🚀 **GitHub Overview**
-
-### 🌟 **Top Languages**  
-💻 **Discover the languages I use the most!**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshvortex&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📊 **GitHub Stats**  
-✨ **A glimpse into my GitHub journey!**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvortex&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+<table border="0">
+  <tr>
+    <td width="33%">
+      <h3>🌐 Full-Stack & Edge Computing</h3>
+      <p><b>Focus:</b> Micro-frontends, Server-Side Rendering (SSR), and Progressive Web Apps (PWAs).</p>
+      <p><b>Arsenal:</b> <code>Next.js</code>, <code>React Native</code>, <code>Node.js</code>.</p>
+    </td>
+    <td width="33%">
+      <h3>🤖 Agentic AI & LLMOps</h3>
+      <p><b>Focus:</b> Building autonomous AI agents, RAG pipelines, and multi-agent workflows.</p>
+      <p><b>Arsenal:</b> <code>Python</code>, <code>LangChain</code>, <code>n8n</code>, <code>Vector DBs</code>.</p>
+    </td>
+    <td width="33%">
+      <h3>☁️ Cloud-Native Engineering</h3>
+      <p><b>Focus:</b> Designing distributed systems, high availability, and container orchestration.</p>
+      <p><b>Arsenal:</b> <code>Docker</code>, <code>Linux</code>, <code>AWS</code>, <code>Nginx</code>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>🕶️ Spatial Computing & WebXR</h3>
+      <p><b>Focus:</b> Bridging 3D modeling with interactive web experiences and digital twins.</p>
+      <p><b>Arsenal:</b> <code>Blender</code>, <code>Three.js</code>, <code>WebGL</code>.</p>
+    </td>
+    <td width="33%">
+      <h3>📟 Industrial IoT & Edge ML</h3>
+      <p><b>Focus:</b> Firmware engineering, hardware telemetry, and deploying ML models on edge.</p>
+      <p><b>Arsenal:</b> <code>ESP32</code>, <code>C++</code>, <code>MQTT</code>.</p>
+    </td>
+    <td width="33%">
+      <h3>🛡️ DevSecOps & Security</h3>
+      <p><b>Focus:</b> Implementing Zero-Trust architectures and secure CI/CD pipelines.</p>
+      <p><b>Arsenal:</b> <code>OAuth 2.0</code>, <code>JWT</code>, <code>GitHub Actions</code>.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 **Streak Stats**  
-⚡ **Consistency is key to growth!**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvortex&theme=radical&cachebuster=1" alt="GitHub Streak Stats" />
-</p>
+## 🎨 Spatial Computing & 3D Visualization Gallery
+> *Fusing creative engineering with technical precision. Modeled, textured, and rendered entirely in Blender.*
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <b>Project Alpha: Hard-Surface Modeling</b><br/>
+        <img src="https://via.placeholder.com/600x400/001524/00D4FF?text=Upload+Blender+Render+Here" width="100%" alt="3D Render 1" style="border-radius: 10px;" />
+      </td>
+      <td width="50%" align="center">
+        <b>Project Beta: Procedural Environments</b><br/>
+        <img src="https://via.placeholder.com/600x400/001524/00D4FF?text=Upload+Blender+Render+Here" width="100%" alt="3D Render 2" style="border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📈 **Contribution Graph**  
-📌 **Visualize my GitHub activity over time!**  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvortex&theme=radical" alt="Contribution Graph" />
-</p>
+## 🛠️ The Heavy Technical Matrix
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Logic & Data** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Edge/Web** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![RN](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Cloud/Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **AI/XR/IoT** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 ---
 
-### 🏆 **GitHub Trophies**  
-🏅 **Celebrating milestones and achievements!**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshvortex&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+## 🏗️ Strategic Deployments (Featured Repos)
+<div align="center">
+  <a href="https://github.com/Codecyclon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshVortex&repo=Codecyclon&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/HarshVortex/EduScheduler"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshVortex&repo=EduScheduler&theme=tokyonight" /></a>
+</div>
 
 ---
 
-## 📫 **Connect with Me**  
-<p align="center">
-  <a href="mailto:harshvortex@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/harshvortex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/harshvortex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
+## 📊 Analytics & Performance
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshVortex&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVortex&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=00000000" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshVortex&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+</div>
 
 ---
 
-## ⚡ **Fun Facts**  
-- 🎮 I love playing strategy games and solving puzzles in my free time.  
-- 🛠️ I enjoy tinkering with hardware and building IoT projects.  
-- 📚 I’m an avid reader of tech blogs and books on software architecture.  
+## 🛰️ Secure Transmission (Connect)
+<div align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://codecyclon.com"><img src="https://img.shields.io/badge/Agency_Portal-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  <br/>
+  
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/your-discord-id"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/your-profile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://kaggle.com/your-profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Dev_Blog-4A154B?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</div>
 
----
+<br />
 
-## ☕ **Support Me**
-
-If you find my projects interesting or helpful, consider supporting me by buying me a coffee! Your support keeps me motivated to build more awesome projects. 💻❤  
-
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/harshvortex)
-
----
-
-## 📚 **Learning Resources**
-
-### **Books**
-- **"Clean Code"** by Robert C. Martin
-- **"Designing Data-Intensive Applications"** by Martin Kleppmann
-- **"The Pragmatic Programmer"** by Andrew Hunt and David Thomas
-
-### **Online Courses**
-- **"Full-Stack Web Development with React"** by Coursera
-- **"Django for Beginners"** by Udemy
-- **"AWS Certified Solutions Architect"** by A Cloud Guru
-
-### **Websites & Blogs**
-- **Medium** (Tech Blogs)
-- **Dev.to**
-- **Smashing Magazine**
-
----
-
-## 🎉 **Achievements**
-
-- 🏅 **1st Place** in a National-Level Hackathon
-- 🥈 **2nd Place** in a Global Coding Competition
-- 📜 **Certified** in Full-Stack Development by freeCodeCamp
-
----
-
-## 🌱 **Future Aspirations**
-
-- 🌐 **Global Impact:** Contribute to global tech initiatives and collaborate with international developers.
-- 📝 **Research & Publications:** Publish research papers on emerging technologies and software development practices.
-- 🎓 **Higher Education:** Pursue a Master's degree in Computer Science to deepen my knowledge and expertise.
-
----
-
-## 🤝 **Collaboration Opportunities**
-
-I am always open to collaborating on interesting projects, especially those related to full-stack development, open-source tools, and innovative tech solutions. If you have an idea or project that aligns with my interests, feel free to reach out!
-
----
-
-## 📝 **Blog**
-
-I occasionally write about my experiences, projects, and insights on software development. Check out my blog for the latest updates and articles.
-
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://harshvortex.github.io/blog/)
-
----
-
-## 📅 **Upcoming Events**
-
-- **Tech Conference 2023** - October 2023
-- **Hackathon 2023** - November 2023
-- **Developer Meetup** - December 2023
-
----
-
-## 📜 **Quotes I Live By**
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-> "Simplicity is the soul of efficiency." - Austin Freeman
-
----
-
-## 📌 **Final Thoughts**
-
-Thank you for visiting my profile! I am passionate about technology and dedicated to building innovative solutions that make a difference. Let's connect and work together to shape the future of tech. Feel free to reach out for collaborations, discussions, or just to say hi! 😊
-
----
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=harshvortex.harshvortex)](https://github.com/harshvortex)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/harshvortex/harshvortex?label=Last%20Commit&style=flat-square)](https://github.com/harshvortex)  
-[![GitHub repo size](https://img.shields.io/github/repo-size/harshvortex/harshvortex?label=Repo%20Size&style=flat-square)](https://github.com/harshvortex)  
-
----
-
-**Let's build the future of technology together!** 🚀
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
