@@ -38,6 +38,22 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 
 > *"I don't just write code. I architect systems that think, scale, and persist."*
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/hero-banner.svg" width="100%" alt="Harsh Vortex — Interactive Terminal Banner"/>
+</p>
+
+### 🛰️ Tech Orbit
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/orbit-skills.svg" width="85%" alt="Orbiting tech stack animation"/>
+</p>
+
+### 📈 Proficiency Matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/skill-bars.svg" width="100%" alt="Animated skill proficiency bars"/>
+</p>
+
 ---
 
 <!-- 6 PILLARS -->
@@ -56,6 +72,38 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 | `Blender` `Three.js` `WebGL` | `ESP32` `C++` `MQTT` `TensorFlow Lite` | `OAuth 2.0` `JWT` `GitHub Actions` |
 
 </div>
+
+<br/>
+
+### 🏗️ How I Think About Systems
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/pipeline-flow.svg" width="100%" alt="Animated request pipeline / architecture flow"/>
+</p>
+
+### 💻 Autonomous Heuristics Engine
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/code-editor.svg" width="100%" alt="Animated code editor typing EduScheduler optimization logic"/>
+</p>
+
+### 🤖 Multi-Agent Orchestration
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/ai-pair-programming.svg" width="100%" alt="Animated AI pair-programming workflow with neural network"/>
+</p>
+
+### 🛡️ Zero-Trust Security Perimeter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/security-shield.svg" width="100%" alt="Animated security scan shield"/>
+</p>
+
+### ⚡ Infrastructure Boot Status
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/boot-checklist.svg" width="100%" alt="Animated system boot checklist"/>
+</p>
 
 ---
 
@@ -98,7 +146,7 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 
 ---
 
-<!-- FLAGSHIP PROJECTS -->
+<!-- FLAGSHIP DEPLOYMENTS -->
 ## 〔 04 〕FLAGSHIP DEPLOYMENTS
 
 <div align="center">
@@ -107,6 +155,10 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 > AI-driven institutional timetabling engine. Uses constraint-satisfaction heuristics and optimization algorithms to automate complex scheduling across faculties, rooms, and time slots. Built for scale.
 
 `Python` `LangChain` `Next.js` `PostgreSQL` `Docker`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/invoice-card.svg" width="90%" alt="EduScheduler Optimization Report"/>
+</p>
 
 ---
 
@@ -182,6 +234,27 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 
 </div>
 
+### 🏙️ 3D Contribution Cityscape
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/output/snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</p>
+
+<div align="center">
+
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
 ---
 
 <!-- TROPHIES -->
@@ -232,6 +305,14 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 
 <br/><br/>
 
+### 🎵 Spotify — Now Playing
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/spotify-card.svg" width="480" alt="Spotify Now Playing"/>
+</p>
+
+<br/>
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 
 </div>
@@ -241,10 +322,14 @@ STATUS      : [ ██████████ ] ACTIVELY BUILDING
 <!-- FOOTER -->
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshVortex/HarshVortex/main/assets/footer-banner.svg" width="100%" alt="footer"/>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,001524,00D4FF,0a0a2e&height=120&section=footer&animation=fadeIn" width="100%" />
 
 <sub><b>⚡ Engineered with precision by HarshVortex · © Codecyclon</b></sub>
 
 </div> 
 
-<!-- Last updated: 2026-03-04 -->
+<!-- Last updated: 2026-11-04 -->
